@@ -3,7 +3,7 @@ OxWaSP Group Projects as part of the First Year of CDT training.
 
 
 # 1. Computational Statistics and Statistical Computing
-Network structure from rich but noisy data
+Network Structure from Rich but Noisy Data
 
 [Module 1 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module1_Report.pdf)
 
@@ -41,16 +41,33 @@ Methods for Paired Comparisons with Ties
 
 
 # 5. Time Series and Stochastic Processes
+Indian Buffet Process with Power-law Behaviour
+
+[Module 5 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_5_Report.pdf)
+
+[Module 5 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_5_Presentation.pdf)
+
+[Module 5 Python Code](https://github.com/nataliagarciamartin/mod5_indianbuffetprocess)
 
 
 # 6. Bayesian Inference
+Approximate Bayesian Computation (ABC) for Model Selection
 
+[Module 6 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_6__report.pdf)
+
+[Module 6 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_6_Presentation__ABC_MC_.pdf)
+
+[Module 6 Python Code](https://github.com/nataliagarciamartin/mod6)
 
 # 7. Stochastic Simulation
+A Sequential Monte Carlo Approach to Gene Expression Deconvolution
 
+[Module 7 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_Report.pdf)
+
+[Module 7 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_Presentation.pdf)
 
 # 8. Machine Learning
-Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable Model
+Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable Model (GPLVM)
 
 [Module 8 Report (Jupyter Google Colab notebook)](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/nl_dim_red_report.ipynb)
 
