@@ -3,7 +3,7 @@ OxWaSP Group Projects as part of the First Year of CDT training.
 
 
 # 1. Computational Statistics and Statistical Computing
-Network Structure from Rich but Noisy Data
+Project: Network Structure from Rich but Noisy Data
 
 [Module 1 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module1_Report.pdf)
 
@@ -12,7 +12,7 @@ Network Structure from Rich but Noisy Data
 [Module 1 R Package](https://github.com/nataliagarciamartin/Network)
 
 # 2. Probability and Approximation
-Growth Rates for Populations in Random Environments
+Project: Growth Rates for Populations in Random Environments
 
 [Module 2 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_2_Report__Growth_rates.pdf)
 
@@ -21,7 +21,7 @@ Growth Rates for Populations in Random Environments
 [Module 2 R Code](https://github.com/nataliagarciamartin/growthrate)
 
 # 3. Applied Statistics
-Colon Cancer Subtypes from Gene Expression Data
+Project: Colon Cancer Subtypes from Gene Expression Data
 
 [Module 3 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_3_Report__gene_expression_clustering.pdf)
 
@@ -31,7 +31,7 @@ Colon Cancer Subtypes from Gene Expression Data
 
 
 # 4. Network Analysis
-Methods for Paired Comparisons with Ties
+Project: Methods for Paired Comparisons with Ties
 
 [Module 4 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_4_Ranking_with_ties.pdf)
 
@@ -41,7 +41,7 @@ Methods for Paired Comparisons with Ties
 
 
 # 5. Time Series and Stochastic Processes
-Indian Buffet Process with Power-law Behaviour
+Project: Indian Buffet Process with Power-law Behaviour
 
 [Module 5 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_5_Report.pdf)
 
@@ -51,14 +51,14 @@ Indian Buffet Process with Power-law Behaviour
 
 
 # 6. Bayesian Inference
-Approximate Bayesian Computation (ABC) for Model Selection
+Project: Approximate Bayesian Computation (ABC) for Model Selection
 
 [Module 6 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_6__report.pdf)
 
 [Module 6 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_6_Presentation__ABC_MC_.pdf)
 
 # 7. Stochastic Simulation
-A Sequential Monte Carlo Approach to Gene Expression Deconvolution
+Project: A Sequential Monte Carlo Approach to Gene Expression Deconvolution
 
 [Module 7 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_report.pdf)
 
@@ -67,7 +67,7 @@ A Sequential Monte Carlo Approach to Gene Expression Deconvolution
 [Module 7 R Code](https://github.com/nataliagarciamartin/mod7_smc)
 
 # 8. Machine Learning
-Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable Model (GPLVM)
+Project: Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable Model (GPLVM)
 
 [Module 8 Report (Jupyter Google Colab notebook)](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/nl_dim_red_report.ipynb)
 
