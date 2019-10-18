@@ -9,7 +9,7 @@ Network structure from rich but noisy data
 
 [Module 1 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module1_Presentation.pdf)
 
-[Module 1 R Package](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module1_Presentation.pdf)
+[Module 1 R Package](https://github.com/nataliagarciamartin/Network)
 
 # 2. Probability and Approximation
 
