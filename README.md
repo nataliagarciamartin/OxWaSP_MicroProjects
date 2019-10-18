@@ -28,3 +28,6 @@ Network structure from rich but noisy data
 
 
 # 8. Machine Learning
+
+Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable Model
+[Module 8 Jupyter notebook](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module1_Presentation.pdf)nl_dim_red_report.ipynb
