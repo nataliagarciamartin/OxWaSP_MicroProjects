@@ -57,14 +57,14 @@ Approximate Bayesian Computation (ABC) for Model Selection
 
 [Module 6 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_6_Presentation__ABC_MC_.pdf)
 
-[Module 6 Python Code](https://github.com/nataliagarciamartin/mod6)
-
 # 7. Stochastic Simulation
 A Sequential Monte Carlo Approach to Gene Expression Deconvolution
 
 [Module 7 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_Report.pdf)
 
 [Module 7 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_Presentation.pdf)
+
+[Module 7 R Code](https://github.com/nataliagarciamartin/mod7_smc)
 
 # 8. Machine Learning
 Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable Model (GPLVM)
