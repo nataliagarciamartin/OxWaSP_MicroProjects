@@ -13,6 +13,11 @@ Network structure from rich but noisy data
 
 # 2. Probability and Approximation
 
+[Module 2 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_2_Report__Growth_rates.pdf)
+
+[Module 2 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Growth_Rates_for_Populations_in_Random_Environments.pdf)
+
+[Module 2 R Package](https://github.com/nataliagarciamartin/growthrate)
 
 # 3. Applied Statistics
 
