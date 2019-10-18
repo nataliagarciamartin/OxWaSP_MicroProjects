@@ -60,9 +60,9 @@ Approximate Bayesian Computation (ABC) for Model Selection
 # 7. Stochastic Simulation
 A Sequential Monte Carlo Approach to Gene Expression Deconvolution
 
-[Module 7 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_Report.pdf)
+[Module 7 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_report.pdf)
 
-[Module 7 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_Presentation.pdf)
+[Module 7 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_7_presentation.pdf)
 
 [Module 7 R Code](https://github.com/nataliagarciamartin/mod7_smc)
 
