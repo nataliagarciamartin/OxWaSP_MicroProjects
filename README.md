@@ -5,8 +5,8 @@ OxWaSP Group Projects as part of the First Year of CDT training.
 # 1. Computational Statistics and Statistical Computing
 Network structure from rich but noisy data
 
-../blob/master/Module1_Report.pdf
-../blob/master/Module1_Presentation.pdf
+https://github.com/nataliagarciamartin/OxWaSP_microprojects/edit/master/Module1_Report.pdf
+https://github.com/nataliagarciamartin/OxWaSP_microprojects/edit/master/Module1_Presentation.pdf
 
 # 2. Probability and Approximation
 
