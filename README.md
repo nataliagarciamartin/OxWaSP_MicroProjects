@@ -18,7 +18,7 @@ Growth Rates for Populations in Random Environments
 
 [Module 2 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Growth_Rates_for_Populations_in_Random_Environments.pdf)
 
-[Module 2 R Package](https://github.com/nataliagarciamartin/growthrate)
+[Module 2 R Code](https://github.com/nataliagarciamartin/growthrate)
 
 # 3. Applied Statistics
 Colon Cancer Subtypes from Gene Expression Data
@@ -37,7 +37,7 @@ Methods for Paired Comparisons with Ties
 
 [Module 4 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Methods_for_Paired_Comparisons_with_Ties.pdf)
 
-[Module 4 R Package](https://github.com/nataliagarciamartin/module4_rankings)
+[Module 4 R Code](https://github.com/nataliagarciamartin/module4_rankings)
 
 
 # 5. Time Series and Stochastic Processes
@@ -56,6 +56,6 @@ Non-linear Dimensionality Reduction using the Gaussian Process Latent Variable M
 
 [Module 8 Presentation](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_8___Presentation.pdf)
 
-[Module 8 Code](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Natalia_Code_Dimensionality_Reduction.ipynb)
+[Module 8 Python Code](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Natalia_Code_Dimensionality_Reduction.ipynb)
 
 
