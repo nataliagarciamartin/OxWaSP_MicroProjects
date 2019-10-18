@@ -16,6 +16,12 @@ Network structure from rich but noisy data
 
 # 3. Applied Statistics
 
+[Module 3 Report](https://github.com/nataliagarciamartin/OxWaSP_microprojects/blob/master/Module_3_Report__gene_expression_clustering (12).pdf)
+
+[Module 3 Presentation](Module_3_Presentation___Colon_Cancer_Subtypes_from_Gene_Expression_Data.pdf)
+
+[Module 3 R Package](https://github.com/nataliagarciamartin/OxWaSP_Module3)
+
 
 # 4. Network Analysis
 
